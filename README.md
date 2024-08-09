@@ -2,18 +2,18 @@
   parking-system
 </h1>
 
-## DescriÁ„o
+## Descri√ß√£o
 
-O microserviÁo parking-system È respons·vel por gerenciar o sistema de estacionamento, incluindo a lÛgica de negÛcios e a integraÁ„o com outros serviÁos. Este projeto faz parte de um sistema maior que utiliza .NET 8.0 para implementar uma arquitetura de microserviÁos.
+O microservi√ßo parking-system √© respons√°vel por gerenciar o sistema de estacionamento, incluindo a l√≥gica de neg√≥cios e a integra√ß√£o com outros servi√ßos. Este projeto faz parte de um sistema maior que utiliza .NET 8.0 para implementar uma arquitetura de microservi√ßos.
 
 ## Estrutura do Projeto
 
-O projeto est· dividido em quatro partes principais:
+O projeto est√° dividido em quatro partes principais:
 
-- **Core**: ContÈm as entidades e interfaces principais.
-- **Infrastructure**: ImplementaÁıes de interfaces, acesso a dados, etc.
-- **Presentation**: Interface do usu·rio ou API.
-- **Parking-System**: Ponto de entrada da aplicaÁ„o.
+- **Core**: Cont√©m as entidades e interfaces principais.
+- **Infrastructure**: Implementa√ß√µes de interfaces, acesso a dados, etc.
+- **Presentation**: Interface do usu√°rio ou API.
+- **Application**: Ponto de entrada da aplica√ß√£o.
 
 ## Pacotes Utilizados
 - Microsoft.Diagnostics.NETCore.Client
