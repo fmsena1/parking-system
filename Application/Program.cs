@@ -36,7 +36,7 @@ namespace ConsoleApp
                         Console.WriteLine("Enter the number of hours the vehicle was parked:");
                         if (int.TryParse(Console.ReadLine(), out int hours))
                         {
-                            removeVehicleUseCase.Execute(licensePlateToRemove, hours, 5, 2); // Example prices
+                            removeVehicleUseCase.Execute(licensePlateToRemove, hours, 6, 2);
                         }
                         else
                         {
